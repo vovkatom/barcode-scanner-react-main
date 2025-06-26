@@ -23,7 +23,7 @@
   </li>
 </ul>
 
-<h2>Technology Stack</h2>
+<h2>Technology Stack6565</h2>
 <ul>
   <li>React123</li>
   <li>SCSS</li>
