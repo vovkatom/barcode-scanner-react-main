@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/barcode-scanner-react/static/css/main.67005198.css",
+    "main.js": "/barcode-scanner-react/static/js/main.7e3f8f0c.js",
+    "static/js/787.b9985f19.chunk.js": "/barcode-scanner-react/static/js/787.b9985f19.chunk.js",
+    "index.html": "/barcode-scanner-react/index.html",
+    "main.67005198.css.map": "/barcode-scanner-react/static/css/main.67005198.css.map",
+    "main.7e3f8f0c.js.map": "/barcode-scanner-react/static/js/main.7e3f8f0c.js.map",
+    "787.b9985f19.chunk.js.map": "/barcode-scanner-react/static/js/787.b9985f19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67005198.css",
+    "static/js/main.7e3f8f0c.js"
+  ]
+}
