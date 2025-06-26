@@ -25,7 +25,7 @@
 
 <h2>Technology Stack</h2>
 <ul>
-  <li>React</li>
+  <li>React123</li>
   <li>SCSS</li>
   <li>QuaggaJS</li>
   <li>JsBarcode</li>
