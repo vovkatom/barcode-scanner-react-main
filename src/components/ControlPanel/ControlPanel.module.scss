@@ -1,0 +1,16 @@
+.controlPanel {
+  width: 100%;
+  height: var(--control-panel-height);
+
+  background-color: var(--secondary-text-color);
+  border-top: 2px solid var(--border-color);
+}
+
+.controlPanelContentBox {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100%;
+  padding: 0 10px;
+}

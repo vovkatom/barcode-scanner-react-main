@@ -1,0 +1,12 @@
+.selectOption {
+  padding: 0 5px;
+
+  cursor: pointer;
+  transition: color var(--timing-function) var(--transition-duration),
+    background-color var(--timing-function) var(--transition-duration);
+
+  &:hover {
+    color: var(--secondary-text-color);
+    background-color: var(--accent-color);
+  }
+}

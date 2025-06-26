@@ -1,0 +1,20 @@
+.header {
+  width: 100%;
+  height: var(--header-height);
+
+  color: var(--secondary-text-color);
+
+  background-color: var(--accent-color);
+  border-bottom: 2px solid var(--border-color);
+}
+
+.heading {
+  margin: 0 auto;
+  text-transform: uppercase;
+}
+
+.headerContainer {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
